@@ -1,0 +1,53 @@
+header{
+	background: green;
+	color: white;
+	text-align: left;
+	padding: 0px;
+}
+nav-bar{
+	position: static;
+	top: 10px;
+	z-index: 0;
+}
+.nav-brand img{
+	height: 60px;
+	padding-left: 0px;
+}
+body{
+	margin: 0;
+	padding: 0;
+	background:url(bg.jpg);
+	background-size:auto;
+	background-repeat:repeat;
+	background position: 500px 50%;
+	font-family: sans-serif; 
+}
+**section{
+	background : red;
+	height: 550px;
+	width: 550px;
+	padding: 1000px;
+}**
+footer{
+	background-color: green;
+	color: white;
+	clear: both;
+	text text-align: center;
+	padding: 20px;
+}
+fieldset{
+	width: 350px;
+	border: 1px solid #dcdcdc;
+	border-radius: 10px;
+	padding: 20px;
+	text-align: right;
+
+}
+legend{
+	background-color: #efefef;
+	border: 1px solid #dcdcdc;
+	border-radius: 10px;
+	padding: 10px 20px;
+	text-align: center;
+	text-transform: uppercase;
+}

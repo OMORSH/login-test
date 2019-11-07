@@ -1,0 +1,75 @@
+#main-wrapper
+{
+	width: 500px;
+	margin: 0 auto;
+	background:transparent;
+	outline: none;
+	padding: 5px ; 
+	border: 2px solid #2c3e50;
+	 
+}
+.snap
+{
+	width: 100px;
+	text-align: center;
+	border-radius: 50%;
+}
+.myform
+{
+	width: 450px;
+	margin: 0 auto;
+}
+.inputvalues
+{
+	width: 430px; 
+	margin: 0 auto;
+	padding: 5px 
+}
+#Login_btn
+{
+	margin-top: 10px;
+	background-color:yellow; 
+	padding: 5px ;
+	color: black;
+	width: 100%;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+
+}
+#register_btn
+{
+	margin-bottom: 10px;
+	background-color:brown; 
+	padding: 5px ;
+	color: black;
+	width: 100%;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+
+}
+#signup_btn
+{
+	margin-top: 10px;
+	background-color:green; 
+	padding: 5px ;
+	color: black;
+	width: 100%;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+
+}
+#back_btn
+{
+	margin-top: 10px;
+	background-color:gray; 
+	padding: 5px ;
+	color: black;
+	width: 100%;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+
+}
